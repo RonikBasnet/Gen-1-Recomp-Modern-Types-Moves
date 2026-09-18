@@ -1,0 +1,8 @@
+{
+  "id": "modern_types",
+  "name": "Steel, Dark & Fairy Types",
+  "version": "0.1.0",
+  "author": "YourName",
+  "description": "Adds Steel, Dark, and Fairy types, type matchups, and signature moves.",
+  "entry": "main.lua"
+}
